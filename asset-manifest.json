@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-complex-form/static/css/main.069d1074.chunk.css",
+    "main.js": "/react-complex-form/static/js/main.ff2c7fac.chunk.js",
+    "main.js.map": "/react-complex-form/static/js/main.ff2c7fac.chunk.js.map",
+    "runtime-main.js": "/react-complex-form/static/js/runtime-main.17feda22.js",
+    "runtime-main.js.map": "/react-complex-form/static/js/runtime-main.17feda22.js.map",
+    "static/js/2.673d86b0.chunk.js": "/react-complex-form/static/js/2.673d86b0.chunk.js",
+    "static/js/2.673d86b0.chunk.js.map": "/react-complex-form/static/js/2.673d86b0.chunk.js.map",
+    "index.html": "/react-complex-form/index.html",
+    "static/css/main.069d1074.chunk.css.map": "/react-complex-form/static/css/main.069d1074.chunk.css.map",
+    "static/js/2.673d86b0.chunk.js.LICENSE.txt": "/react-complex-form/static/js/2.673d86b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17feda22.js",
+    "static/js/2.673d86b0.chunk.js",
+    "static/css/main.069d1074.chunk.css",
+    "static/js/main.ff2c7fac.chunk.js"
+  ]
+}
